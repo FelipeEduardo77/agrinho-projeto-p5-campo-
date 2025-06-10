@@ -1,0 +1,1 @@
+o meu projeto ele mostra um campo com uns bloquinhos e neles você pode plantar colher e regar, eu queria que ele mostra se como e ficar em um campo como os dias passa e as dificuldades que os agricultores passam, por conta do solo, do sol, do frio, da chuva e a estações do ano.
